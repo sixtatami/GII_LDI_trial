@@ -22,7 +22,7 @@ export default function App() {
               <Text fontSize={["5rem"]}> XL</Text>
               <Box bg={["bg1", "bg2", "bg3", "bg4"]} p={[2, 4, 6, 16]}>
                 <Text fontSize={["12px", "sm", "lg", "64px"]}>
-                  Here the important headline
+                  Here the important headline and more
                 </Text>
               </Box>
             </Box>
